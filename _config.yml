@@ -1,6 +1,0 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins: - jekyll-remote-theme
-theme: jekyll-theme-minimal
-title: Kimberlee Britton Project Site
-description: summary and links to past projects
-
